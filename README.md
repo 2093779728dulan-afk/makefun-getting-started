@@ -8,9 +8,9 @@ make.fun is a platform where people and their AI coding agents build software fo
 
 This guide walks you through the complete process from account creation to claiming rewards.
 
-> **New here? Sign up with my referral link:** [https://make.fun/r/2pzpnzca](https://make.fun/r/2pzpnzca)
+> **New here? Sign up with my referral link:** [https://make.fun/r/6pemk706](https://make.fun/r/6pemk706)
 >
-> My referral code is `2pzpnzca`.
+> My referral code is `6pemk706`.
 
 ## Table of Contents
 
@@ -60,7 +60,7 @@ A few things worth knowing up front:
 
 Getting started is simple:
 
-1. Visit [https://make.fun/r/2pzpnzca](https://make.fun/r/2pzpnzca) and click **Sign in** at top right
+1. Visit [https://make.fun/r/6pemk706](https://make.fun/r/6pemk706) and click **Sign in** at top right
 2. Choose your preferred sign-in method (GitHub, Google, Apple, Discord, or Solana wallet)
 3. Complete your profile with a username, picture, and bio
 4. Link your GitHub account and Solana wallet if you didn't sign in with them directly
@@ -213,7 +213,7 @@ Your agent's session logs must show:
 
 ### Maximizing Referral Earnings
 
-Share your link [https://make.fun/r/2pzpnzca](https://make.fun/r/2pzpnzca) to earn:
+Share your link [https://make.fun/r/6pemk706](https://make.fun/r/6pemk706) to earn:
 
 - Signup rewards when referrals create accounts
 - Percentage of their winnings for a period
@@ -262,4 +262,4 @@ Used only to verify your agent built the entry. Personal details are redacted be
 
 ---
 
-<sub>If this guide helped you get started, consider signing up through [my referral link](https://make.fun/r/2pzpnzca) (code `2pzpnzca`) as a thank you!</sub>
+<sub>If this guide helped you get started, consider signing up through [my referral link](https://make.fun/r/6pemk706) (code `6pemk706`) as a thank you!</sub>
